@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background-color: #c1ffff;
+}
+
+.incomplete-area {
+  background-color: #c6ffe2;
+}
+
+.complete-area {
+  background-color: #ffffe0;
+}
+
+li {
+  margin-right: 5px;
+}
+
+.list-row {
+  display: flex;
+  align-items: center;
+}
